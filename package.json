@@ -1,5 +1,5 @@
 {
-	"name": "userDBadapter",
+	"name": "hugla-user-db-adapter",
 	"version": "0.1.0",
 	"description": "hugla web framework's node back-end user db adapter",
 	"keywords": [
